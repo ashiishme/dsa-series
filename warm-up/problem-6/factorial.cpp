@@ -1,6 +1,11 @@
+/**
+ * Name: Factorial
+ * Problem link: https://www.codechef.com/LRNDSA01/problems/FCTRL
+ * Author: Ashish Yadav <https://github.com/ashiishme>
+ */
+
 #include <iostream>
 using namespace std;
-
 
 int main(void) {
    int t, n;

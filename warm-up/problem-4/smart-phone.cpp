@@ -1,3 +1,9 @@
+/**
+ * Name: Smart Phone
+ * Problem link: https://www.codechef.com/LRNDSA01/problems/ZCO14003
+ * Author: Ashish Yadav <https://github.com/ashiishme>
+ */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

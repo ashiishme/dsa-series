@@ -1,3 +1,9 @@
+/**
+ * Name: Lapindromes
+ * Problem link: https://www.codechef.com/LRNDSA01/problems/LAPIN
+ * Author: Ashish Yadav <https://github.com/ashiishme>
+ */
+
 #include <iostream>
 #include <string>
 #include <algorithm>

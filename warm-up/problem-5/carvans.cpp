@@ -1,3 +1,9 @@
+/**
+ * Name: Carvans
+ * Problem link: https://www.codechef.com/LRNDSA01/problems/CARVANS
+ * Author: Ashish Yadav <https://github.com/ashiishme>
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;
