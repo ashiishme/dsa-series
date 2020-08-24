@@ -28,3 +28,5 @@ Hone your skills with this set.
 ### Beginner
 
 - [ATM](https://www.codechef.com/problems/HS08TEST)
+
+Stuck? Go to [solution](https://github.com/ashiishme/dsa-series/tree/master/practice/beginner).
