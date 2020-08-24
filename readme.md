@@ -5,6 +5,8 @@ Solutions of DSA series from `CodeChef`.
 ## Table Of Contents
 
 - [Warm Up](#warm-up)
+- [Practice](#practice)
+  - [Beginner](#beginner)
 
 ## Warm up
 
@@ -18,3 +20,11 @@ List of all the problems for basics warm up.
 - [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL)
 
 Stuck? Go to [solution](https://github.com/ashiishme/dsa-series/blob/master/warm-up/).
+
+## Practice
+
+Hone your skills with this set.
+
+### Beginner
+
+- [ATM](https://www.codechef.com/problems/HS08TEST)
